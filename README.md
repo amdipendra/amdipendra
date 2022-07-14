@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amdipendra
-- 👀 I’m interested in Full Stack Development.
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me srivastavadipendra@gmail.com
+- 📫 How to reach me- mail: srivastavadipendra@gmail.com
 
 <!---
 amdipendra/amdipendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
