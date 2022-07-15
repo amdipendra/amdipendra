@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amdipendra
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN STACK
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me srivastavadipendra@gmail.com
 
 <!---
